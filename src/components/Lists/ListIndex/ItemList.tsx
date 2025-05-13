@@ -9,10 +9,10 @@ const ItemList  = ({food}: { food: Item})  => {
         <article  className={`no-padding max  no-elevate  ${ food.op ?  null  : "grayscale"} `}>
             <a className={"w-full left-align"} href={`/contact/${food.id}`}>
             <div className="grid no-space  middle-align">
-                <div className="s4 m3 l3">
+                <div className="s4 m4 l4">
                     <img style={{width:"100px" , height:"100px"}}   className="responsive no-round radios-left-bottom radios-left-top " src={food.image} alt={food.name}/>
                 </div>
-                <div className="s8 m9 l9">
+                <div className="s8 m8 l8">
                     <div className="left-padding flex flex-col ">
                         <h6 className={"bold  small"}>{food.name}</h6>
 

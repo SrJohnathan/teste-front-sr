@@ -21,9 +21,13 @@ const AppBar = () => {
 
                 </div>
 
+                <a title={"tickets"} className={" l m  "}><i>shoppingmode</i></a>
+
                 <button className="circle transparent">
                     <i className="fa-regular fa-user"></i>
                 </button>
+
+
 
             </nav>
 
