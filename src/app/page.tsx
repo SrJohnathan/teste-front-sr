@@ -8,12 +8,15 @@ import Content from "@/app/content";
 export default function Home() {
   return (
 
-      <div className={"flex flex-col w-full "}>
+      <div className={"flex flex-col w-full  "}>
         <AppBar/>
 
-          <main style={{height:"800px"}} className={"no-padding  responsive no-margin  flex flex-col "}>
-              <img className={"w-full"}  src="/651ac653c8d451.png"/>
-                 <Content/>
+
+
+          <main style={{height:"800px"}} className={"no-padding no-margin center-align flex flex-col  "}>
+              <img className={"w-full s "}  src="/651ac653c8d451.png"/>
+              <img className={"w-full  m l  large-width  center padding"}  src="/651ac653c8d451.png"/>
+              <Content/>
           </main>
 
           <footer>
