@@ -1,0 +1,112 @@
+[
+
+  {
+    "id": 1,
+    "name": "Matsuri Concept",
+    "rank": 4.7,
+    "freeOrPaid": true,
+    "price": 0,
+    "image": "/Rectangle6.png",
+    "open": true
+  },
+
+  {
+    "id": 2,
+    "name": "Subway - Avenida center",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle7.png",
+    "open": false
+  },
+  {
+    "id": 3,
+    "name": "Burger King - Colombo",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle8.png",
+    "open": true
+  },
+  {
+    "id": 4,
+    "name": "Burger King - Colombo",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle8.png",
+    "open": true
+  },
+  {
+    "id": 5,
+    "name": "McDonald’s - Novo Centro",
+    "rank": 4.7,
+    "freeOrPaid": true,
+    "price": 0,
+    "image": "/Rectangle5.png",
+    "open": true
+  },
+  {
+    "id": 6,
+    "name": "Subway - Avenida center",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle7.png",
+    "open": true
+  },
+  {
+    "id": 7,
+    "name": "Matsuri Concept",
+    "rank": 4.7,
+    "freeOrPaid": true,
+    "price": 0,
+    "image": "/Rectangle6.png",
+    "open": false
+  },
+  {
+    "id": 8,
+    "name": "Subway - Avenida center",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle7.png",
+    "open": false
+  },
+  {
+    "id": 9,
+    "name": "Burger King - Colombo",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle8.png",
+    "open": false
+  },
+  {
+    "id": 10,
+    "name": "Burger King - Colombo",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle8.png",
+    "open": false
+  },
+  {
+    "id": 11,
+    "name": "McDonald’s - Novo Centro",
+    "rank": 4.7,
+    "freeOrPaid": true,
+    "price": 0,
+    "image": "/Rectangle5.png",
+    "open": false
+  },
+  {
+    "id": 12,
+    "name": "Subway - Avenida center",
+    "rank": 4.7,
+    "freeOrPaid": false,
+    "price": 6,
+    "image": "/Rectangle7.png",
+    "open": false
+  }
+]

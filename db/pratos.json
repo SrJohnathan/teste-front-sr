@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Niguiris",
+    "eco": true,
+    "products": []
+  },
+  {
+    "name": "Ceviches",
+    "eco": true,
+    "description": "um prato super refrescante de peixe fatiado e marinado com limão",
+    "products": []
+  },
+  {
+    "name": "Temakis",
+    "description": "sushi em forma de cone com salmão e cream cheese",
+    "products": [
+      {
+        "name": "Califórnia",
+        "description": "Kani, pepino e maçã ou manga",
+        "price": 13.99,
+        "originalPrice": 17.00,
+        "discount": true,
+        "eco": true
+      },
+      {
+        "name": "Califórnia",
+        "description": "Kani, pepino e maçã ou manga",
+        "price": 13.99,
+        "discount": false,
+        "eco": true
+      },
+      {
+        "name": "Filadélfia",
+        "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+        "price": 13.99
+      },
+      {
+        "name": "Mix",
+        "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maion...",
+        "price": 13.99,
+        "fromPrice": true,
+        "eco": true
+      },
+      {
+        "name": "Salmão picante",
+        "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+        "price": 13.99,
+        "fromPrice": true,
+        "eco": true
+      }
+    ]
+  },
+  {
+    "name": "Bebidas",
+    "products": []
+  },
+  {
+    "name": "Sobremesas",
+    "products": []
+  }
+]
+
